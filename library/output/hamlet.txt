@@ -1,0 +1,248 @@
+Adam Sexton • Tintin Pantoja
+
+Copyright © 2008 by Adam Sexton and Tintin Pantoja. All rights reserved.
+Published by Wiley Publishing, Inc., Hoboken, New Jersey
+No part of this publication may be reproduced, stored in a retrieval system or transmitted in
+any form or by any means, electronic, mechanical, photocopying, recording, scanning or otherwise, except as permitted under Sections 107 or 108 of the 1976 United States Copyright
+Act, without either the prior written permission of the Publisher, or authorization through
+payment of the appropriate per-copy fee to the Copyright Clearance Center, 222 Rosewood
+Drive, Danvers, MA 01923, (978) 750-8400, fax (978) 646-8600, or on the web at
+www.copyright.com. Requests to the Publisher for permission should be addressed to the
+Legal Department, Wiley Publishing, Inc., 10475 Crosspoint Blvd., Indianapolis, IN 46256,
+(317) 572-3447, fax (317) 572-4355, or online at http://www.wiley.com/go/permissions.
+Wiley, the Wiley Publishing logo, and related trademarks and trade dress are trademarks
+or registered trademarks of John Wiley & Sons, Inc. and/or its affiliates. All other trademarks are the property of their respective owners. Wiley Publishing, Inc. is not associated
+with any product or vendor mentioned in this book.
+The publisher and the author make no representations or warranties with respect to the accuracy or completeness of the contents of this work and specifically disclaim all warranties,
+including without limitation warranties of fitness for a particular purpose. No warranty may
+be created or extended by sales or promotional materials. The advice and strategies contained
+herein may not be suitable for every situation. This work is sold with the understanding that
+the publisher is not engaged in rendering legal, accounting, or other professional services. If
+professional assistance is required, the services of a competent professional person should be
+sought. Neither the publisher nor the author shall be liable for damages arising here from.
+The fact that an organization or Website is referred to in this work as a citation and/or a
+potential source of further information does not mean that the author or the publisher
+endorses the information the organization or Website may provide or recommendations it
+may make. Further, readers should be aware that Internet Websites listed in this work may
+have changed or disappeared between when this work was written and when it is read.
+For general information on our other products and services or to obtain technical support
+please contact our Customer Care Department within the U.S. at (800) 762-2974, outside
+the U.S. at (317) 572-3993 or fax (317) 572-4002.
+Wiley also publishes its books in a variety of electronic formats. Some content that appears
+in print may not be available in electronic books. For more information about Wiley products, please visit our web site at www.wiley.com.
+Library of Congress Control Number: 2007940615
+ISBN: 978-0-470-09757-1
+Printed in the United States of America
+10 9 8 7 6 5 4 3 2 1
+Book design by Elizabeth Brooks
+Book production by Wiley Publishing, Inc. Composition Services
+
+Suiting the Action to the Word:
+Shakespeare and Manga
+
+Act I
+
+Act II
+
+Act III
+
+Act IV
+
+Act V
+
+1
+
+5
+
+41
+
+71
+
+117
+
+139
+
+Adam Sexton is the author of Master Class in Fiction Writing and
+the editor of the anthologies Love Stories, Rap on Rap, and
+Desperately Seeking Madonna. He has written on art and entertainment for The New York Times and The Village Voice, and he teaches
+fiction writing and literature at New York University and critical reading and writing at Parsons School of Design. A graduate
+of Columbia University and the University of Pennsylvania, he
+lives in Brooklyn with his wife and son.
+Tintin Pantoja is a graphic artist dividing her time between
+Indonesia and Manila. She graduated from the School of Visual
+Arts in New York in 2006, having arrived in New York—her
+first time in America—a month before the World Trade Center
+attacks in 2001. She is now working on several illustrated projects. Tintin’s work can be viewed on her Web site: tintin
+pantoja.com
+
+Suiting the Action to the Word:
+Shakespeare and Manga
+by Adam Sexton
+
+“Suit the action to the word, the word to the action...”
+—Hamlet (Act III, Scene 2)
+
+Four hundred years after the writing of William Shakespeare’s
+plays, it is clear that they are timeless. This is due in part to their
+infinite adaptability. The plays have been translated into dozens
+of languages and performed all over the world. Famously creative stage productions have included a version of Julius Caesar
+set in Fascist Europe during the 1930s and a so-called “voodoo
+Macbeth.” Nor have gender and age proved barriers to casting
+Shakespeare’s characters. The role of Hamlet is occasionally
+played by a woman—an appropriate reversal, considering that
+boys acted all the female roles in Shakespeare’s day—while the
+teenaged Romeo and Juliet have been portrayed by couples in
+their forties and fifties.
+It is common knowledge that the plays of Shakespeare
+transfer especially well to the movie screen. Such has been the
+case since Thomas Edison made one of the first sound films ever
+using a scene from As You Like It. Recent cinema standouts
+include William Shakespeare’s Romeo + Juliet, directed by Baz
+Luhrmann, and Michael Almereyda’s Hamlet. Both take place in
+the present day or near future: Leonardo DiCaprio’s Romeo
+wears a Hawaiian shirt—and Julia Stiles’ Ophelia wears a wire,
+so Claudius and Polonius can eavesdrop on her conversation
+with Hamlet. Otherwise, these adaptations remain surprisingly
+faithful to Shakespeare’s texts. And both hit the audience as
+hard as conventional stage productions in which the actors are
+1
+
+outfitted with doublets and hose, crossed swords, and what
+Hamlet calls “a bare bodkin”—his unsheathed dagger (replaced
+in Almereyda’s movie by a gun).
+Shakespeare’s plays have been set to music as well, in
+operas and ballets by composers such as Verdi, Tchaikovsky,
+and Prokofiev. The early comedy Two Gentlemen of Verona was
+adapted for Broadway by the composer of Hair, and it won the
+Tony award for Best Musical the same year that Grease was
+nominated. In the words of theater critic Jan Kott, Shakespeare
+is indeed “our contemporary.”
+In short, though some consider the plays of William
+Shakespeare to be sacrosanct, they have been cut, expanded (it
+was common in the Victorian era to add songs and even happy
+endings to the tragedies), and adapted to multiple media, emerging none the worse for wear. Although we cannot be sure of this,
+it seems likely that the writer, who was a popular artist and a
+savvy businessman as well as an incomparable poet, would
+approve.
+The graphic novels known as manga (Japanese for “whimsical pictures”) are a natural medium for Shakespeare’s work.
+Like his tragedies, comedies, histories, and romances, which are
+thrillingly dynamic if properly staged, manga are of course
+visual. In fact, a manga is potentially more visual than a stage
+production of one of the plays of Shakespeare. Unbound by the
+physical realities of the theater, the graphic novel can depict any
+situation, no matter how fantastical or violent, that its creators
+are able to pencil, ink, and shade.
+Take Romeo and Juliet’s famous Queen Mab speech. Even the
+most creative stage director cannot faithfully present the minuscule fairy described by Mercutio. Manga artists can. The same is
+true of the drowning of Ophelia in Hamlet. It is precisely because
+these vignettes are unstageable that Shakespeare has his characters describe Queen Mab and the death of Ophelia in such great
+detail—they must help us imagine them. In its unlimited ability
+2
+
+to dramatize, the graphic novel more closely resembles a contemporary film with a colossal special-effects budget than anything
+produced in the Elizabethan era or since.
+At the same time, manga are potentially no less verbal than
+Shakespeare’s spectacularly wordy plays, with this crucial difference: in a production of one of the plays onstage or onscreen,
+we can hear the words but can’t see them. Though Shakespeare
+is never easy, reading helps. And that is precisely what manga
+adaptations of the plays allow. Perusing a Shakespeare manga,
+the reader can linger over speeches, rereading them in part or
+altogether. Especially in the long and intricate soliloquies typical
+of Shakespearean tragedy, this allows for an appreciation of the
+playwright’s craft that is difficult if not impossible as those soliloquies move past us during a performance.
+Overall, turning the pages of a manga version of one of
+Shakespeare’s plays is something like reading the text of that
+play while attending a performance, but at one’s own pace.
+Manga is not merely a new medium for the plays of William
+Shakespeare, but one that is distinctly different from anything
+to have come before.
+A note on authenticity: In order to fit our adaptations into
+books of less than 200 pages, the writers and editors of The
+Manga Editions have cut words, lines, speeches, even entire
+scenes from Shakespeare’s plays, a practice almost universal
+among stage and film directors. We have never paraphrased the
+playwright’s language, however, nor have we summarized
+action. Everything you read in The Manga Editions was written
+by William Shakespeare himself. Finally, footnotes don’t interrupt the characters’ speeches here, any more than they would in
+a production of one of Shakespeare’s plays onstage or on film.
+
+There is no play better suited to the manga approach than Hamlet,
+Shakespeare’s tragedy about Hamlet, prince of Denmark, who is
+3
+
+instructed by the ghost of his father, King Hamlet, to kill his
+Uncle Claudius. Since murdering Hamlet’s father, Claudius has
+become king of Denmark himself and has married Hamlet’s
+mother, Queen Gertrude. Prince Hamlet has a girlfriend,
+Ophelia, who is the daughter of Claudius’s most trusted advisor
+(Polonius) and the sister of Hamlet’s rival, Laertes. Hamlet’s best
+friend, Horatio, and two college chums, Rosencrantz and
+Guildenstern, visit him during the play. Of all these characters,
+only one survives to the end of the story.
+The play is manga-friendly because it is unarguably actionpacked, complete with a terrifying ghost, a tussle in an open
+grave, and a climactic swordfight during which four central
+characters die violent deaths. At least one character in Hamlet
+goes insane and two characters commit suicide, one of them by
+accident. There’s an inadvertent murder, as well as two accomplished from afar, by trickery. Another murder, achieved by
+pouring poison into the victim’s ear, takes place before the story
+starts and is reenacted in the course of a play within the play.
+At the same time, not one of Shakespeare’s plays contains
+more internal material—thoughts, feelings, hopes, fears and
+ideas—than Hamlet. Hamlet himself delivers five soliloquies
+throughout the course of the tragedy named for him, and all are
+masterpieces of poetry and rhetoric, philosophy and wordplay.
+Though Shakespeare’s Hamlet: The Manga Edition doesn’t explain
+the soliloquies, it gives us the opportunity to read and reread them
+in the context of the visually-presented action described above.
+By means of dynamic new medium of manga, Shakespeare’s timeless tragedy is thereby made new—again.
+
+4
+
+978-0-470-09759-5
+
+978-0-470-09757-1
+
+$9.99 US/$11.99 CAN
+
+$9.99 US/$11.99 CAN
+
+ore full-throttle
+action and ambition
+gone haywire. More
+dreams and schemes.
+Alliances and betrayals.
+Murders and mayhem.
+Passions and poisons.
+Shakespeare has it
+all, and now you can
+experience the action
+and appreciate the
+intrigue in these manga
+editions. All of these
+books combine the
+classic art form and
+classic literature and
+feature an introduction
+that sets the stage so
+you’re engrossed from
+the first page.
+COMING IN 2009!
+Huck Finn—The Manga Edition
+978-0-470-15287-4
+The Scarlet Letter—The Manga Edition
+978-0-470-14889-1
+
+978-0-470-09760-1
+
+978-0-470-09758-8
+
+$9.99 US/$11.99 CAN
+
+$9.99 US/$11.99 CAN
+
+Look for these fast-paced manga editions
+wherever books are sold.
+Wiley, the Wiley logo, CliffsNotes, and CliffsNotes.com are trademarks or registered trademarks
+of John Wiley & Sons, Inc. and/or its affiliates in the United States and other countries.
+
+

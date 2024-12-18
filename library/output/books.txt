@@ -1,0 +1,8 @@
+1 : atomic_habits
+2 : brave_new_world
+3 : the_diary_of_young_girl
+4 : on_the_origin_of_species
+5 : Prejudice
+6 : hamlet
+7 : hyperfocus
+8 : catcher_in_the_rye
