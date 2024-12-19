@@ -20,6 +20,14 @@ void readBook(string fileName)
     string lines[30]; // Array to store 30 lines
     int pageNumber = 1;
     bool running = true;
+    
+    ofstream Myfile("books.txt" , ios :: app);
+    if(Myfile.is_open())
+    {
+        Myfile << fileName << endl;
+        Myfile.close();
+    }
+   
 
     while (running)
     {
@@ -39,7 +47,7 @@ void readBook(string fileName)
                 lineCount++;
             }
         }
-
+ 
         // Display the lines we read
         for (int i = 0; i < lineCount; i++)
         {
@@ -96,7 +104,6 @@ void readBook(string fileName)
     file.close();
 }
 
-
 void deleteBook(string fileName)
 {
     if (remove(fileName.c_str()) == 0)
@@ -110,7 +117,7 @@ void deleteBook(string fileName)
 }
 void createSampleBook()
 {
-    ofstream file("sample_book.txt");
+    ofstream file("sample_book.txt"); 
     if (file.is_open())
     {
         // Title and Author
@@ -287,7 +294,7 @@ int main()
                     cout << "Enter file name to read (e.g., sample_book.txt): ";
                     cout << "===============================\n\n";
                     cin >> fileName;
-                    
+
                     readBook(fileName);
                     break;
                 }
@@ -299,12 +306,13 @@ int main()
                     cin >> fileName;
                     deleteBook(fileName);
                     cout << "Press Enter to continue...";
-                    // cin.ignore();
-                    cin.get();
+                    cin.ignore(); // if we dont use this then cin.get will not work bec it will have some garbage value
+                    cin.get();    // to inout any number so unser than ssee the changes
                     break;
                 }
 
                 case 4:
+                // all books in library
                     readBooksFromList();
                     break;
 
@@ -316,7 +324,7 @@ int main()
                     cin >> fileName;
                     cout << "===============================\n\n";
                     readBook(fileName);
-                    break;
+                    break;  
                 }
 
                 case 6:
