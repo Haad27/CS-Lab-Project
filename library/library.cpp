@@ -5,6 +5,7 @@
 #include <sapi.h>    // For Windows SAPI
 
 using namespace std;
+bool flag = true;
 
 void readBook(string fileName)
 {
@@ -51,23 +52,40 @@ void readBook(string fileName)
             cout << "         End of book!         \n";
             cout << "===============================\n";
             cout << "Press Enter to exit...";
-            cin.ignore();
+            cin.ignore(200, '\n');
             cin.get();
             break;
         }
-
-        cout << "\n-------------------------------\n";
-        cout << "1. Next Page\n";
-        cout << "2. Exit\n";
-        cout << "-------------------------------\n";
-        cout << "Choice (1-2): ";
-
-        int choice;
-        cin >> choice;
-
-        if (choice == 2)
+        bool validChoice = false;
+        while (!validChoice)
         {
-            break;
+            cout << "\n-------------------------------\n";
+            cout << "1. Next Page\n";
+            cout << "2. Exit\n";
+            cout << "-------------------------------\n";
+            cout << "Choice (1-2): ";
+
+            int choice;
+            if (!(cin >> choice))
+            {
+                cin.clear();           // Clear error flags
+                cin.ignore(200, '\n'); // Clear input buffer
+                cout << "Invalid input. Please enter a number." << endl;
+                continue;
+            }
+
+            switch (choice)
+            {
+            case 1:
+                validChoice = true;
+                break;
+            case 2:
+                running = false;
+                validChoice = true;
+                break;
+            default:
+                cout << "Please enter a choice between 1 and 2" << endl;
+            }
         }
         pageNumber++;
     }
@@ -203,7 +221,9 @@ int main()
         int choice;
         cin >> choice;
 
-        if (choice == 1)
+        switch (choice)
+        {
+        case 1:
         {
             // Show books and then transition to main menu
             readBooksFromList();
@@ -211,32 +231,62 @@ int main()
             // Main menu
             while (true)
             {
+                cout << "===============================\n";
+
                 cout << "\n=== Book Reader Menu ===\n";
+                cout << "===============================\n";
+
+                cout << "===============================\n";
+
                 cout << "1. Create sample book\n";
-                cout << "2. Read a book (Search)\n";
+                cout << "===============================\n";
+
+                cout << "===============================\n";
+                cout << "2. Read a book\n";
+                cout << "===============================\n";
+                cout << "===============================\n";
+
                 cout << "3. Delete a book\n";
+                cout << "===============================\n";
+                cout << "===============================\n";
+
                 cout << "4. View all available books\n";
-                cout << "5. Exit to Welcome Menu\n";
-                cout << "Choice (1-5): ";
+                cout << "===============================\n";
+
+                cout << "===============================\n";
+                cout << "5. read summary of any book\n";
+                cout << "===============================\n";
+                cout << "===============================\n";
+
+                cout << "6. Exit to Welcome Menu\n";
+                cout << "===============================\n";
+
+                cout << "Choice (1-6): ";
 
                 int mainChoice;
                 cin >> mainChoice;
 
-                if (mainChoice == 1)
+                switch (mainChoice)
                 {
+                case 1:
                     createSampleBook();
                     cout << "Press Enter to continue...";
                     cin.ignore();
                     cin.get();
-                }
-                else if (mainChoice == 2)
+                    break;
+
+                case 2:
                 {
                     string fileName;
+                    cout << "===============================\n";
                     cout << "Enter file name to read (e.g., sample_book.txt): ";
+                    cout << "===============================\n\n";
                     cin >> fileName;
                     readBook(fileName);
+                    break;
                 }
-                else if (mainChoice == 3)
+
+                case 3:
                 {
                     string fileName;
                     cout << "Enter file name to delete (e.g., sample_book.txt): ";
@@ -245,21 +295,39 @@ int main()
                     cout << "Press Enter to continue...";
                     cin.ignore();
                     cin.get();
+                    break;
                 }
-                else if (mainChoice == 4)
-                {
+
+                case 4:
                     readBooksFromList();
-                }
-                else if (mainChoice == 5)
+                    break;
+
+                case 5:
                 {
-                    break; // Exit to Welcome Menu
+                    string fileName;
+                    cout << "===============================\n";
+                    cout << "Enter file name to read summary of (e.g., sample_book_summary.txt): ";
+                    cin >> fileName;
+                    cout << "===============================\n\n";
+                    readBook(fileName);
+                    break;
                 }
+
+                case 6:
+                    break; // Exit inner while loop
+                }
+                if (mainChoice == 6)
+                    break; // Exit to Welcome Menu
             }
-        }
-        else if (choice == 2)
-        {
-            cout << "Thank you for using the Online Library. Goodbye!\n";
             break;
+        }
+
+        case 2:
+            cout << "Thank you for using the Online Library. Goodbye!\n";
+            return 0;
+
+        default:
+            cout << "Invalid choice. Please enter 1 or 2.\n";
         }
     }
 
