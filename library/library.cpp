@@ -29,7 +29,8 @@ void readBook(string fileName)
         cout << "    Page " << pageNumber << "                 \n";
         cout << "===============================\n\n";
 
-        // Read 20 lines into array
+        // Read 30 lines into array
+        // so we can go to next page by readers will
         int lineCount = 0;
         for (int i = 0; i < 30; i++)
         {
@@ -52,7 +53,9 @@ void readBook(string fileName)
             cout << "         End of book!         \n";
             cout << "===============================\n";
             cout << "Press Enter to exit...";
+            // to remove trash value otherwise it may get garbage value
             cin.ignore(200, '\n');
+            // so it pausses unter user enters any keyword so we can see before the page goes on
             cin.get();
             break;
         }
@@ -92,9 +95,11 @@ void readBook(string fileName)
 
     file.close();
 }
+
+
 void deleteBook(string fileName)
 {
-    if (remove(fileName.c_str()) == 1)
+    if (remove(fileName.c_str()) == 0)
     {
         cout << "Book '" << fileName << "' deleted successfully!\n";
     }
@@ -282,6 +287,7 @@ int main()
                     cout << "Enter file name to read (e.g., sample_book.txt): ";
                     cout << "===============================\n\n";
                     cin >> fileName;
+                    
                     readBook(fileName);
                     break;
                 }
@@ -293,7 +299,7 @@ int main()
                     cin >> fileName;
                     deleteBook(fileName);
                     cout << "Press Enter to continue...";
-                    cin.ignore();
+                    // cin.ignore();
                     cin.get();
                     break;
                 }
